@@ -30,7 +30,7 @@ utilitydata_job_passes.collected={
  ["itemgroup"]={
   { 2, "0" },
   { 1, "0" },
-  { 2, "0" },
+  { 3, "0" },
   { 3, "0" },
   { 7, "0" },
   { 3, "0" },
@@ -94,7 +94,7 @@ utilitydata_structures_counters.collected={
  },
  ["itemgroup:itemize"]={
   { 0, 1, 3 },
-  { 0, 2, 0, 0, 2, 0, 3, 0, 7 },
+  { 0, 2, 0, 0, 3, 0, 3, 0, 7 },
  },
  ["linenote"]={
   { 0 },
