@@ -15,6 +15,6 @@ script: bash tools/travis-deploy.sh
 
 env:
   global:
-  - ENCRYPTION_LABEL: dc3e238ed4e4
-  - COMMIT_AUTHOR_EMAIL: stefanos1316@gmail.com
+  - ENCRYPTION_LABEL: b6a4c68c1fcb
+  - COMMIT_AUTHOR_EMAIL: florian.akos.szabo@gmail.com
 

@@ -1,5 +1,5 @@
-Stefanos Georgiou
-=================
+Florian Akos Szabo
+==================
 
 ----
 
@@ -54,22 +54,19 @@ Technical Experience
 --------------------
 
 Knowledge
-:   *Programming Languages:* Bash, Java, Python, C, and C++
+:   *Programming Languages:* Bash, Java, Python, C, and C++, Golang
 :   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports), Python (Pandas framework, statistics, matplotlib, seaborn)
 
 Projects
-:   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
-:   *Programming II website:* [Course](https://github.com/stefanos1316/courses)
-:   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
-:   *ValidateLinks:* [Repository](https://github.com/stefanos1316/validateLinks)
+:   *Design4Green Challenge* [Software](https://github.com/florianakos/d4g) 
+
 
 Research Publications
 ---------------------
 
 * Conference Publications
    
-     * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What are your programming language’s energy-delay implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. [Link](https://stefanos1316.github.io/my_curriculum_vitae/GKLS18.pdf).
-     * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing programming languages' energy consumption: an empirical study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. [Link](https://stefanos1316.github.io/my_curriculum_vitae/GKS17.pdf)
+    * TODO
 
 
 Grands, Awards, Languages, and Living Abroad
@@ -77,16 +74,15 @@ Grands, Awards, Languages, and Living Abroad
 
 * Grands and awards:
 
-     * Best paper award from the 15th Annual DMST Student Conference (2018)
-     * Marie Skłodowska-Curie funds, SENECA (2016-2019)
-     * Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)
+     * Erasmus Mundus Masters Scholarship, PERCCOM (2017-2019)
 
 
 * Human Languages:
 
-     * Greek/Hungarian (Native speaker)
+     * Hungarian (Native speaker)
      * English (Fluent speaker)
-     * Russian/ France (Basic knowledge)
+     * Finnish (Beginner speaker)
+     * German/French (Basic knowledge)
 
 
 * Living Abroad:
@@ -101,5 +97,5 @@ Grands, Awards, Languages, and Living Abroad
 
 ----
 
-> <sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu>\
-> Troias 2, ground floor, Room 03 or - Axais & Troizinias, second floor - Athens, Greece
+> <florian.akos.szabo@gmail.com>\
+> Ruskonlahdenkatu 15 - Building D14 - Lappeenranta, Finlang
