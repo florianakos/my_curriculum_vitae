@@ -3,8 +3,8 @@ Florian Akos Szabo
 
 ----
 
->  *On profession*: Passionated with coding, performing experiments, learning and combining new technologies.
->  *On spare-time*: Enjoying sports, reading books, and going crazy for travelling and food.
+>  *On profession*: Programming, researching for my thesis, learning about new technologies, such as Blockchain and Quantum Encryption.
+>  *In spare-time*: Doing sports, reading books, and for travelling .
 
 ----
 
@@ -24,12 +24,12 @@ Education
 2013-2014
 :   **Bsc, Computer Software Engineering**; 1 year long double degree programme
     
-    *Thesis title: Web-based device reservation system for JyvSecTec"*;[Link](http://urn.fi/URN:NBN:fi:amk-201405137641)
+    *Thesis title: Web-based device reservation system for JyvSecTec"*; [Link](http://urn.fi/URN:NBN:fi:amk-201405137641)
 
 2010-2015
 :   **BSc, Computer Network Engineering**; University of Debrecen, Hungary 
 
-    *Thesis title: Software Defined Networking*; [Link](bsc_thesis.pdf)
+    *Thesis title: Software Defined Networking*;
 
 
 Experience
