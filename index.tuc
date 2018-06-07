@@ -28,11 +28,9 @@ local utilitydata_job_passes = utilitydata_job.passes if not utilitydata_job_pas
 
 utilitydata_job_passes.collected={
  ["itemgroup"]={
-  { 1, "0" },
-  { 1, "0" },
-  { 1, "0" },
+  { 2, "0" },
   { 4, "0" },
-  { 7, "0" },
+  { 6, "0" },
   { 3, "0" },
  },
 }
@@ -93,8 +91,8 @@ utilitydata_structures_counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 1, 3 },
-  { 0, 1, 0, 0, 1, 0, 4, 0, 7 },
+  { 0, 3 },
+  { 0, 2, 0, 4, 0, 6 },
  },
  ["linenote"]={
   { 0 },
@@ -160,7 +158,7 @@ utilitydata_structures_lists.collected={
    ["section"]=2,
   },
   ["titledata"]={
-   ["title"]="2016-2019 (expected)",
+   ["title"]="2017-2019 (Expected)",
   },
  },
  {
@@ -173,7 +171,7 @@ utilitydata_structures_lists.collected={
    ["section"]=2,
   },
   ["titledata"]={
-   ["title"]="2013-2015",
+   ["title"]="2015-2016",
   },
  },
  {
@@ -186,7 +184,20 @@ utilitydata_structures_lists.collected={
    ["section"]=2,
   },
   ["titledata"]={
-   ["title"]="2008-2013",
+   ["title"]="2013-2014",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=6,
+   ["order"]=4,
+   ["realpage"]=1,
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["title"]="2010-2015",
   },
  },
  {
@@ -194,7 +205,7 @@ utilitydata_structures_lists.collected={
   ["numberdata"]=9,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=6,
+   ["internal"]=7,
    ["realpage"]=1,
    ["reference"]="experience",
    ["section"]=3,
@@ -205,11 +216,37 @@ utilitydata_structures_lists.collected={
   },
  },
  {
+  ["metadata"]=7,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=8,
+   ["order"]=5,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="2016-2017 (13 months)",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=9,
+   ["order"]=6,
+   ["realpage"]=1,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="2014-2015 (10 months)",
+  },
+ },
+ {
   ["metadata"]=4,
   ["numberdata"]=11,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=7,
+   ["internal"]=10,
    ["realpage"]=1,
    ["reference"]="technical-experience",
    ["section"]=4,
@@ -223,8 +260,8 @@ utilitydata_structures_lists.collected={
   ["metadata"]=7,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=8,
-   ["order"]=4,
+   ["internal"]=11,
+   ["order"]=7,
    ["realpage"]=1,
    ["section"]=4,
   },
@@ -236,9 +273,9 @@ utilitydata_structures_lists.collected={
   ["metadata"]=7,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=9,
-   ["order"]=5,
-   ["realpage"]=2,
+   ["internal"]=12,
+   ["order"]=8,
+   ["realpage"]=1,
    ["section"]=4,
   },
   ["titledata"]={
@@ -250,25 +287,10 @@ utilitydata_structures_lists.collected={
   ["numberdata"]=13,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=10,
-   ["realpage"]=2,
-   ["reference"]="research-publications",
-   ["section"]=5,
-  },
-  ["titledata"]={
-   ["label"]="subsection",
-   ["title"]="Research Publications",
-  },
- },
- {
-  ["metadata"]=4,
-  ["numberdata"]=15,
-  ["references"]={
-   ["block"]="bodypart",
-   ["internal"]=11,
+   ["internal"]=13,
    ["realpage"]=2,
    ["reference"]="grands-awards-languages-and-living-abroad",
-   ["section"]=6,
+   ["section"]=5,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -284,14 +306,14 @@ utilitydata_structures_pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=16,
-  ["prefixdata"]=17,
+  ["numberdata"]=14,
+  ["prefixdata"]=15,
  },
  {
   ["block"]="bodypart",
   ["number"]=2,
-  ["numberdata"]=16,
-  ["prefixdata"]=17,
+  ["numberdata"]=14,
+  ["prefixdata"]=15,
  },
 }
 
@@ -306,7 +328,7 @@ local utilitydata_structures_references = utilitydata_structures.references if n
 
 utilitydata_structures_references.referred={
  { 1, 1 },
- { 2, 6 },
+ { 2, 4 },
 }
 
 local utilitydata_structures = utilitydata.structures if not utilitydata_structures then utilitydata_structures = { } utilitydata.structures = utilitydata_structures end
@@ -400,13 +422,6 @@ utilitydata.job.packed={
    ["block"]="bodypart",
    ["hidenumber"]=true,
    ["numbers"]=12,
-   ["set"]="all",
-  },
-  { 0, 0, 1, 5 },
-  {
-   ["block"]="bodypart",
-   ["hidenumber"]=true,
-   ["numbers"]=14,
    ["set"]="all",
   },
   {
